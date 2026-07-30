@@ -1,0 +1,23 @@
+# Data (large, don't commit — download via notebook instead)
+data/
+*.zip
+*.tar.gz
+
+# Model checkpoints (use Git LFS if committing, see README)
+checkpoints/*.pt
+!checkpoints/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
