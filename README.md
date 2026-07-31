@@ -106,5 +106,5 @@ Top-5 highest-confidence misclassifications (all >99.99% confidence, all wrong) 
 
 ## Report & Demo
 
-- [Project Report (PDF)](reports/project_report.pdf)
-- Demo video: link TBD
+- https://github.com/vaibhavpaliwal00-ui/satellite-land-use-classifier/blob/main/project_report.pdf
+- https://youtu.be/UKI7ZwEbCBM?si=fiAHpNu8qtgIOt5y
